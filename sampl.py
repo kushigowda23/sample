@@ -1,1 +1,1 @@
-print('power of python')
+print('power of pythn')
